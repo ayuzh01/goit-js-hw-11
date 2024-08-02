@@ -13,3 +13,4 @@ export function searchGalleryQuery(query) {
         console.log(error);
     })
 }
+
